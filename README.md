@@ -23,7 +23,10 @@ All models are mirrored over their YZ planes. The origins of each model are in t
 
 # Screenshot:
 Screenshots are attached to show the bug and proper appearance of the robot.
+
 VSCode's incorrect display: VScode_Mirrored.png
+
 Correct display of the same robot through RoboDK (This doesn't use URDF, but is the way the robot should appear): RoboDK_MH180_120.png
+
 Correct display of the URDF using urdf-viz: urdf-viz_Correct.png
  
